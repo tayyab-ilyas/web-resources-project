@@ -178,5 +178,12 @@
     "description": "It covers all the basics - what React is, setting up, components & routing - before diving into state management, async code, built-in hooks & custom hooks too.",
     "link": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d",
     "img": "https://user-images.githubusercontent.com/100681165/238199161-9310a468-c7ce-4514-b5bb-761f9a4b3d7a.png"
+  },
+  {
+    "tag": "js",
+    "title": "Jonas Schmedtmann",
+    "description": "A beginner friendly mini course which covers essential topics of JavaScript with coding challenges!",
+    "link": "https://www.youtube.com/playlist?list=PLvtRgUbhWmy8MCUNDT2hiI0jpGgjTfSLE",
+    "img": "https://github.com/tayyab-ilyas/web-resources-project/assets/110786036/02ddcc82-3389-4fee-8af5-f1d9abbfd4d0"
   }
 ]

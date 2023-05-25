@@ -30,7 +30,6 @@
 
 
 
-
 <!-- REACT -->
 ![reactv_codeEvo](https://github.com/jayk-gupta/web-resources-project/assets/100681165/9a09b94e-74a3-4891-bbdd-7d5a5d95a540)
 ![reactv_freeCC](https://github.com/jayk-gupta/web-resources-project/assets/100681165/6359edc3-19be-4fea-b716-d6010a56c425)
